@@ -53,7 +53,7 @@ const SignUp = () => {
         <div className="col-lg-6 mt-3">
           <img src={signup} className="img-fluid img-thumbnail rounded" />
         </div>
-        <div className="col-lg-5 mx-3 mt-3">
+        <div className="col-lg-5  mt-3">
           <form>
             <div className="form-group mt-4">
               <label>Username</label>
