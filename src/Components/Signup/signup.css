@@ -1,0 +1,10 @@
+.register-page {
+  display: flex;
+  min-height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+.text-log {
+  color: #7f7f7f;
+}
